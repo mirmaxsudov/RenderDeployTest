@@ -7,7 +7,7 @@ const port = process.env.PORT || 8080;
 
 server.use(
   cors({
-    origin: "https://test-rtk.vercel.app",
+    origin: "https://blog-website-clone-by-abdurahmon.vercel.app",
   })
 );
 
